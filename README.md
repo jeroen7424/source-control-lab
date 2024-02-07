@@ -1,3 +1,3 @@
 # source-control-lab
 
-Some changes to the file were missing.
+Some changes to important files were missing.
